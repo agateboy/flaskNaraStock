@@ -1,5 +1,7 @@
 # Request Backend
 
+url = https://flasknarastock.onrender.com
+
 symbol = ['EURUSD=X', 'NZDUSD=X', 'GBPUSD=X', 'USDJPY=X', 'AUDUSD=X']
 
 Prediksi close, high, low harian
