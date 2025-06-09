@@ -1,0 +1,37 @@
+[
+    {
+        "t+1": {
+            "classification": "Naik",
+            "classification_probability": 0.5300177931785583,
+            "predicted_close_price": 145.96182745194528
+        }
+    },
+    {
+        "t+2": {
+            "classification": "Naik",
+            "classification_probability": 0.5308294892311096,
+            "predicted_close_price": 156.79698424588423
+        }
+    },
+    {
+        "t+3": {
+            "classification": "Turun",
+            "classification_probability": 0.5316879749298096,
+            "predicted_close_price": 135.96901793353027
+        }
+    },
+    {
+        "t+4": {
+            "classification": "Naik",
+            "classification_probability": 0.5254254341125488,
+            "predicted_close_price": 155.65376502566505
+        }
+    },
+    {
+        "t+5": {
+            "classification": "Turun",
+            "classification_probability": 0.5280854105949402,
+            "predicted_close_price": 130.15922305779532
+        }
+    }
+]

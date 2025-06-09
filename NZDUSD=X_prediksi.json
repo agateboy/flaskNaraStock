@@ -1,0 +1,37 @@
+[
+    {
+        "t+1": {
+            "classification": "Naik",
+            "classification_probability": 0.6260157823562622,
+            "predicted_close_price": 0.6030932247704075
+        }
+    },
+    {
+        "t+2": {
+            "classification": "Naik",
+            "classification_probability": 0.6697077751159668,
+            "predicted_close_price": 0.6032699494964393
+        }
+    },
+    {
+        "t+3": {
+            "classification": "Naik",
+            "classification_probability": 0.7844880819320679,
+            "predicted_close_price": 0.6035314315933422
+        }
+    },
+    {
+        "t+4": {
+            "classification": "Naik",
+            "classification_probability": 0.886393666267395,
+            "predicted_close_price": 0.6036772067942198
+        }
+    },
+    {
+        "t+5": {
+            "classification": "Naik",
+            "classification_probability": 0.9563349485397339,
+            "predicted_close_price": 0.6042210131833516
+        }
+    }
+]
