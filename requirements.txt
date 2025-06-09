@@ -28,7 +28,6 @@ Markdown==3.8
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-mkl-service==2.4.0
 ml_dtypes==0.5.1
 multitasking==0.0.11
 namex==0.0.9
