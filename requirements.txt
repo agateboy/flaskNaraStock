@@ -29,9 +29,12 @@ Markdown==3.8
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
+<<<<<<< HEAD
 mkl-service==2.4.0
 mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
 mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+=======
+>>>>>>> 82adff6405371af138083dd2932d615acb30765d
 ml_dtypes==0.5.1
 multitasking==0.0.11
 namex==0.0.9
