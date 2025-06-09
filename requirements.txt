@@ -29,22 +29,16 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
 mkl-service==2.4.0
-mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
-mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
 ml_dtypes==0.5.1
 multitasking==0.0.11
 namex==0.0.9
-numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp310-cp310-win_amd64.whl#sha256=e824ec3b279f4c5207736c83ac2f2dc79b489e08501a4ea9e3fc178c45db289b
 opt_einsum==3.4.0
 optree==0.15.0
-packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
 pandas==2.2.3
 patsy==1.0.1
 peewee==3.18.1
 platformdirs==4.3.8
 protobuf==5.29.4
-py-cpuinfo @ file:///C:/b/abs_9ej7u6shci/croot/py-cpuinfo_1698068121579/work
 pycparser==2.22
 Pygments==2.19.1
 python-dateutil==2.9.0.post0
@@ -59,14 +53,12 @@ sklearn-pandas==2.2.0
 soupsieve==2.7
 statsmodels==0.14.4
 ta==0.11.0
-tables @ file:///C:/b/abs_42pi_3ui_1/croot/pytables_1738861595649/work
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
 tensorflow==2.19.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==3.1.0
 threadpoolctl==3.6.0
-typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
 tzdata==2025.2
 urllib3==2.4.0
 websockets==15.0.1
